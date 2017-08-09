@@ -1,0 +1,95 @@
+.navbar-brand{
+    position:relative;
+    left:100px;
+    background-color:#4aaaa5
+}
+.navbar-collapse{
+    position: relative;
+    left:-270px;
+}
+
+.nav.navbar-nav.navbar-right{
+    color: #777777;
+}
+
+.navbar-default .navbar-brand {
+    color:white;
+    width:140px;
+}
+
+.container-fluid{
+    background-color: #ffffff;
+}
+
+..navbar-default{
+    background-color:white;
+}
+
+.navbar-text{
+  position: relative;
+  left:40%;
+  width:100%;
+}
+
+ h2{
+    /*margin-left: 10px;
+    margin-right: 10px;*/
+    border-bottom: solid;
+    border-color: #dddddd;
+    border-width: 3px;
+    color:#4aaaa5;
+ }
+
+ h3{
+    border-bottom: solid;
+    border-color: #dddddd;
+    border-width: 1.5px;
+    width:190px;
+    color:#4aaaa5;
+ }
+
+p{
+    color:#777777;
+}
+
+
+.floaty {
+    float: left;
+    width: auto%;
+    margin: 2%;
+}
+
+.floatytext {
+    position: relative;
+    bottom: 35px;
+    margin: 0px;
+    color: white;
+    background: #4aaaa5;
+   }
+
+.col-md-3 {
+    border:solid;
+    border-width:1px;
+    border-color:#dddddd;
+}
+
+.col-md-8 {
+    border:solid;
+    border-width:1px;
+    border-color:#dddddd;
+}
+
+.col-md-12{
+    position: fixed;
+    bottom:0px;
+    left: 0px;
+    text-align:center;
+    width:100%;
+    background-color:#dddddd; 
+    height:20px; 
+    
+}
+
+body{
+    background-image: url('http://cdn.wallpapersafari.com/68/6/KMG8XN.jpg');
+}
